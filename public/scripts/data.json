@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "text": "Do something ",
+        "completed": false,
+        "deleted": false
+    },
+    {
+        "id": 2,
+        "text": "Do something 2",
+        "completed": false,
+        "deleted": false
+    },
+    {
+        "id": 3,
+        "text": "Do something 3",
+        "completed": false,
+        "deleted": false
+    },
+    {
+        "id": 4,
+        "text": "Do something 4",
+        "completed": false,
+        "deleted": false
+    },
+    {
+        "id": 5,
+        "text": "Do somethingf 5",
+        "completed": false,
+        "deleted": false
+    }
+]
